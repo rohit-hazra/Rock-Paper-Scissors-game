@@ -5,6 +5,7 @@ The player can choose between Rock, Paper, or Scissors and compete against the c
 It includes a scoreboard, reset button, smooth animations, and an attractive background gradient.
 
 
+
 🚀 Features
 
 🎮 Play against the computer with random choices.
@@ -20,6 +21,7 @@ It includes a scoreboard, reset button, smooth animations, and an attractive bac
 💡 Responsive design with modern UI styling.
 
 
+
 🕹️ How to Play
 
 Choose your move:
@@ -33,6 +35,9 @@ Press "▶ Play" to see the computer's choice.
 Result appears (Win / Lose / Tie) and the scoreboard updates.
 
 Press "🔄 Reset" anytime to clear the game.
+
+try it: https://rock-paper-scissors-game-ten-taupe.vercel.app/
+
 
 
 🛠️ Technologies Used
