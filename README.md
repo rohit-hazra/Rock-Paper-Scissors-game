@@ -41,6 +41,6 @@ Rock-Paper-Scissors-Game/
 ## 🌐 Live Demo
 
 Check out the game online:  
-[**Play Rock Paper Scissors**]([https://your-live-demo-link.com](https://rock-paper-scissors-game-59l0cwahw.vercel.app/))  
+[**Play Rock Paper Scissors**](https://rock-paper-scissors-game-59l0cwahw.vercel.app/)
 
 Made with ❤️ for fun and learning JavaScript interactions.
